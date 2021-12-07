@@ -19,6 +19,6 @@
 
 # 📎 Agregar a CheemsFire a su servidor de Discord
 
-⚠ Si nos es dueño del server, asegurese tener permisos de este para agregar al bot.
+⚠ Si no es dueño del server, asegurese tener permisos de este para agregar al bot.
 
 💎︰Invitame: https://discord.com/oauth2/authorize?client_id=913941114447351828&scope=bot&permissions=8
