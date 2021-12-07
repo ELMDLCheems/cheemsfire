@@ -15,10 +15,12 @@
 
 ╰ ❌︰Usted no tiene ni idea de como usar el bot.
 
-😥 Si se aplica algo de lo anterior, entonces CheemsFire probablemente no será el mejor bot para su servidor, y debería considerar buscar en https://discord.bots.gg otro bot.
+😥 Si se aplica algo de lo anterior, entonces CheemsFire probablemente no será el mejor bot para su servidor, y debería considerar buscar en https://top.gg/ otro bot.
 
 # 📎 Agregar a CheemsFire a su servidor de Discord
 
-⚠ Si no es dueño del server, asegurese tener permisos de este para agregar al bot.
+> ⚠ Si no es dueño del server, asegurese tener permisos de este para agregar al bot.
 
-💎︰Invitame: https://discord.com/oauth2/authorize?client_id=913941114447351828&scope=bot&permissions=8
+💎︰Invitame: https://acortar.link/voe2HH
+
+# 💻 Verificar los permisos de CheemsFire
