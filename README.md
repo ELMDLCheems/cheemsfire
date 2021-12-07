@@ -1,3 +1,7 @@
+# Empezando
+
+Ultimos cambios: 7/12/21 
+
 # 🐶 ¿Es CheemsFire un bot adecuado para mi servidor?
 **CheemsFire puede ser util para su servidor si:**
 
